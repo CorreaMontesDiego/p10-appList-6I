@@ -26,4 +26,5 @@ samples, guidance on mobile development, and a full API reference.
 
   ## Resultado de aplicacion en flutter
 
-![image](https://github.com/CorreaMontesDiego/p10-appList-6I/assets/143771010/851803d1-aedc-427f-a497-51e6ebf619a4)
+![image](https://github.com/CorreaMontesDiego/p10-appList-6I/assets/143771010/0ba0a570-fc87-4511-9621-e1d71e3e28bf)
+
